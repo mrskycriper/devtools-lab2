@@ -1,0 +1,3 @@
+[submodule "itmo.operating-systems"]
+	path = itmo.operating-systems
+	url = https://github.com/mrskycriper/itmo.operating-systems.git
