@@ -1,3 +1,3 @@
-Test addition to readme
+# Repository for Devtools Lab 2
 
-added by mrskycriper
+Submodule added only for the test
